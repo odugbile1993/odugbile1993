@@ -5,7 +5,7 @@ Welcome to my GitHub repository! I'm a Data Analyst, Web Developer, and Global D
 
 Data Analysis & Visualization: Crafting dashboards and reports to simplify complex datasets for decision-makers.
 
-Web Development: Proficient in HTML, CSS, JavaScript, Node.js, and Dart, with experience in both frontend and backend development.
+Web Development: Proficient in HTML, CSS, JavaScript, Node.js, python and Dart, with experience in both frontend and backend development.
 
 Database Management: Designing and optimizing databases using SQL and other relational database systems.
 
